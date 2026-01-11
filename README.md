@@ -11,9 +11,15 @@ I'm a senior BSIT student at **Polytechnic University of the Philippines - Unisa
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **EchoVox** | A social media platform with post/edit capabilities. | .NET Core MVC, SQL Server | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
-| **LGU Appointment** | Advanced scheduling system for local government. | PHP, MySQL, Bootstrap | [View Code](https://github.com/YOUR_USERNAME/Project-Name) |
-| **Java Inventory** | OOP-based inventory system demonstrating inheritance. | Java, Swing, SQLite | [View Code](https://github.com/YOUR_USERNAME/Java-Project) |
+| **LGU Quick Appoint** | Advanced scheduling system for local government. | PHP, MySQL, Bootstrap | [View Code](https://github.com/YOUR_USERNAME/Project-Name) |
+
+## 📂 Other Activities
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **EchoVox** | A social media platform with post/edit capabilities. | .NET Core MVC, Static Data | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
+| **Cafe Connect** | A social media platform with post/edit capabilities. | .NET Core MVC, Static Data | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
+
 
 ## 🏆 Experience & Certifications
 
