@@ -9,7 +9,7 @@ I'm a senior BSIT student at **Polytechnic University of the Philippines - Unisa
 
 ## 📂 Project Portfolio
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Tech Stack | Repository ||
 | :--- | :--- | :--- | :--- | :--- |
 | **LGU Quick Appoint** | Advanced scheduling system for local government. | PHP, MySQL, Bootstrap | [View Code](https://github.com/jayveepcrujido/Quick-Appoint-2026) | [View Website](https://unisan-lgu-quick-appoint.page.gd) |
 
