@@ -11,14 +11,14 @@ I'm a senior BSIT student at **Polytechnic University of the Philippines - Unisa
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **LGU Quick Appoint** | Advanced scheduling system for local government. | PHP, MySQL, Bootstrap | [View Code](https://github.com/YOUR_USERNAME/Project-Name) |
+| **LGU Quick Appoint** | Advanced scheduling system for local government. | PHP, MySQL, Bootstrap | [View Code](https://github.com/jayveepcrujido/Quick-Appoint-2026) |
 
 ## 📂 Other Activities
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **SMSync** | SMS Service that Utilizes GSM Module| .NET Core MVC, Static Data | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
-| **EchoVox** | A social media platform with post/edit capabilities. | .NET Core MVC, Static Data | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
+| **SMSync** | SMS Service that Utilizes GSM Module| .NET Core MVC, Static Data | [View Code](https://github.com/jayveepcrujido/SMSync) |
+| **EchoVox** | A social media platform with post/edit capabilities. | .NET Core MVC, Static Data | [View Code](https://github.com/jayveepcrujido/EchoVox-.NET-MVC-Activity) |
 | **Cafe Connect** | A responsive website designed for a coffee shop business. | Python, Flask, HTML, CSS, MySQL | [View Code](https://github.com/jayveepcrujido/cafe_connect_website/) |
 
 ![demo-gif](https://github.com/user-attachments/assets/3087e67d-5fb7-4a6f-a956-dc9aff926db6)
