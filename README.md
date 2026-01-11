@@ -3,8 +3,8 @@
 I'm a senior BSIT student at **Polytechnic University of the Philippines - Unisan, Quezon Campus**
 
 - 💻 **Tech Stack:**
-  - **Core:** Java, Python, C# (Transitioning from Java to .NET)
-  - **Web:** HTML5, CSS3, ASP.NET Core MVC
+  - **Core:** Java, Python, Fundamentals of C#
+  - **Web:** HTML, CSS, Fundamentals of ASP.NET Core MVC
 - 🚀 **Current Focus:** Leveraging my OOP background in Java to build enterprise applications in **.NET 8**.
 
 ## 📂 Project Portfolio
@@ -17,6 +17,7 @@ I'm a senior BSIT student at **Polytechnic University of the Philippines - Unisa
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
+| **SMSync** | SMS Service that Utilizes GSM Module| .NET Core MVC, Static Data | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
 | **EchoVox** | A social media platform with post/edit capabilities. | .NET Core MVC, Static Data | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
 | **Cafe Connect** | A responsive website designed for a coffee shop business. | Python, Flask, HTML, CSS, MySQL | [View Code](https://github.com/jayveepcrujido/cafe_connect_website/) |
 
