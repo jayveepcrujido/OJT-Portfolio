@@ -19,6 +19,7 @@ I'm a senior BSIT student at **Polytechnic University of the Philippines - Unisa
 | :--- | :--- | :--- | :--- |
 | **EchoVox** | A social media platform with post/edit capabilities. | .NET Core MVC, Static Data | [View Code](https://github.com/YOUR_USERNAME/EchoVox) |
 | **Cafe Connect** | A responsive website designed for a coffee shop business. | Python, Flask, HTML, CSS, MySQL | [View Code](https://github.com/jayveepcrujido/cafe_connect_website/) |
+![Image](https://github.com/user-attachments/assets/3087e67d-5fb7-4a6f-a956-dc9aff926db6)
 
 
 ## 🏆 Experience & Certifications
