@@ -14,6 +14,8 @@ I'm a 4th year BSIT student at **Polytechnic University of the Philippines - Uni
 | :--- | :--- | :--- | :--- | :--- |
 | **LGU Quick Appoint** | Advanced scheduling system for local government. | PHP, MySQL, Bootstrap | [View Code](https://github.com/jayveepcrujido/Quick-Appoint-2026) | [View Website](https://unisan-lgu-quick-appoint.page.gd) |
 
+![Image](https://github.com/user-attachments/assets/c6ffe463-92a8-4ed1-8e54-3eb38ad84ed0)
+
 ## 📂 Other Activities
 
 | Project | Description | Tech Stack | Repository |
